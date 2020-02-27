@@ -42,3 +42,7 @@ QR코드 생성기를 이용한 www.naver.com의 QR코드
 QR코드 인식  
 ![10](./res/10.jpg)  
 ![11](./res/11.jpg)  
+  
+  
+참고: https://github.com/journeyapps/zxing-android-embedded
+참고: https://park-duck.tistory.com/108?category=843507
