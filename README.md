@@ -24,21 +24,21 @@ implementation 'com.android.support:support-v4:28.0.0' 를 추가한 후 동기�
 
 - android:hardwareAccelerated="true" 입력하여 준다.
 
-4. 액티비티 전환위환 버튼 생성 및 코드 작성
+4. 액티비티 전환위환 버튼 생성 및 코드 작성  
 ![1](./res/1.JPG)
 ![2](./res/2.JPG)
 ![3](./res/3.JPG)
 
-5. QR코드 스캔 액티비티 구현
+5. QR코드 스캔 액티비티 구현  
 ![4](./res/4.JPG)
 ![5](./res/5.JPG)
 ![6](./res/6.JPG)
-6. 스캔한 결과 구별을 위한 코드 구현
+6. 스캔한 결과 구별을 위한 코드 구현  
 ![7](./res/7.JPG)
 7. 결과화면
 ![9](./res/9.JPG)
-QR코드 생성기를 이용한 www.naver.com의 QR코드
+QR코드 생성기를 이용한 www.naver.com의 QR코드  
 ![8](./res/8.JPG)
-QR코드 인식
+QR코드 인식  
 ![10](./res/10.JPG)
 ![11](./res/11.JPG)
