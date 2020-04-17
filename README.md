@@ -15,9 +15,7 @@ This Program Using YOLOV3 for object detection and using zxing Read QRcode
 
 - implementation 'com.google.zxing:core:3.3.0'
 
-- 23번줄 implementation 'com.android.support:appcompat-v7:28.0.0' 에 Error: Program type already present:android.support.v4.app.ActivityCompat $OnRequestPermissionsResultCallback 에러가 난다면
-
-implementation 'com.android.support:support-v4:28.0.0' 를 추가한 후 동기화
+- 23번줄 implementation 'com.android.support:appcompat-v7:28.0.0' 에 Error: Program type already present:android.support.v4.app.ActivityCompat $OnRequestPermissionsResultCallback 에러가 난다면 implementation 'com.android.support:support-v4:28.0.0' 를 추가한 후 동기화
 ![0](./res/0.JPG)
 
 3. HardwareAccelerate 변경
