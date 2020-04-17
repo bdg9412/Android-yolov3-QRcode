@@ -13,7 +13,7 @@ This Program Using YOLOV3 for object detection and using zxing Read QRcode
 
 - implementation('com.journeyapps:zxing-android-embedded:3.6.0') { transitive = false }
 
-implementation 'com.google.zxing:core:3.3.0'
+- implementation 'com.google.zxing:core:3.3.0'
 
 - 23번줄 implementation 'com.android.support:appcompat-v7:28.0.0' 에 Error: Program type already present:android.support.v4.app.ActivityCompat $OnRequestPermissionsResultCallback 에러가 난다면
 
@@ -42,6 +42,9 @@ QR코드 생성기를 이용한 www.naver.com의 QR코드
 QR코드 인식  
 ![10](./res/10.jpg)  
 ![11](./res/11.jpg)  
+
+Todo
+Qr코드로 현재 위치 파악 후 지도를 불러온 다음 object detection을 이용하여 건물로 부터 정보 파악 및 위치 추적
   
   
 참고: https://github.com/journeyapps/zxing-android-embedded  
